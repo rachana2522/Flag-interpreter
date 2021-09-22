@@ -1,0 +1,42 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 3rem;
+  padding: 1rem;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+input {
+  width: 80vw;
+  max-width: 800px;
+  padding: 1rem;
+}
+
+.output {
+  font-size: 2rem;
+  padding: 1rem 0;
+  margin: 1rem 0;
+}
+
+ul {
+  margin: 0 auto;
+  list-style: none;
+  font-size: 1.5rem;
+}
+
+li {
+  display: inline-block;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
